@@ -3,9 +3,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-Coder&layout=compact&theme=dark&hide_border=true" />
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-
-### I'm lxy
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> I'm lxy
 
 Here are some links:
 - 🖋️ [LXY's Blog](http://www.codingcode.cn/)
