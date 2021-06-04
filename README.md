@@ -2,14 +2,12 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-Coder&layout=compact" />
 
-<!-- <img height="15%" width="15%" src="https://github.com/Coding-Coder/Coding-Coder/blob/main/hello.gif" /> -->
-
 ### I'm lxy
 
 Here are some links:
 - 🖋️ [LXY's Blog](http://www.codingcode.cn/)
 - 📪 [Email](mailto:aethon47@163.com)
-
+<img height="15%" width="15%" src="https://github.com/Coding-Coder/Coding-Coder/blob/main/hello.gif" /> 
 
 <!--
 **Coding-Coder/Coding-Coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
