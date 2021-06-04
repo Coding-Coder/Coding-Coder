@@ -1,6 +1,9 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Coding-Coder&include_all_commits=true&count_private=true&theme=highcontrast&show_icons=true&hide_border=true" />  
+# LXY <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Coding-Coder&include_all_commits=true&count_private=true&theme=dark&show_icons=true&hide_border=true" />  
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-Coder&layout=compact&theme=highcontrast&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-Coder&layout=compact&theme=dark&hide_border=true" />
+
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ### I'm lxy
 
