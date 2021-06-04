@@ -1,8 +1,10 @@
-![Hello](https://github.com/Coding-Coder/Coding-Coder/blob/main/hello.gif)
+
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Coding-Coder&count_private=true&show_icons=true" />  
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-Coder&layout=compact" />
+
+![Hello](https://github.com/Coding-Coder/Coding-Coder/blob/main/hello.gif)
 
 ### I'm lxy
 
