@@ -3,12 +3,13 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-Coder&layout=compact&theme=dark&hide_border=true" />
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> I'm lxy
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> I'm lxy <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20vw" />
 
-Here are some links:
+<img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20vw" />Here are some links:
 - 🖋️ [LXY's Blog](http://www.codingcode.cn/)
 - 📪 [Email](mailto:aethon47@163.com)
-<img height="15%" width="15%" src="https://github.com/Coding-Coder/Coding-Coder/blob/main/hello.gif" /> 
+
+<img align="center" src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 
 <!--
 **Coding-Coder/Coding-Coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
