@@ -4,7 +4,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-Coder&layout=compact" />
 
-![Hello](https://github.com/Coding-Coder/Coding-Coder/blob/main/hello.gif)
+<img height="15%" width="15%" src="https://github.com/Coding-Coder/Coding-Coder/blob/main/hello.gif" />
 
 ### I'm lxy
 
