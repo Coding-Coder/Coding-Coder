@@ -1,9 +1,6 @@
 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Coding-Coder&include_all_commits=true&count_private=true&theme=buefy&show_icons=true" />  
-
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-Coder&layout=compact" />
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Coding-Coder&include_all_commits=true&count_private=true&theme=buefy&show_icons=true" />  
 <img height="15%" width="15%" src="https://github.com/Coding-Coder/Coding-Coder/blob/main/hello.gif" />
 
 ### I'm lxy
