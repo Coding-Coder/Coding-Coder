@@ -10,6 +10,7 @@
 
 <div style="position:absolute;left:0px;border:1px solid red;">xxx</div>
 <div style="position:absolute;right:0px;border:1px solid red;">sss</div>
+
 ---
 
 <details open>
