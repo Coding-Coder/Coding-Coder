@@ -5,11 +5,7 @@
 - <img src="https://github.com/Coding-Coder/Coding-Coder/blob/main/pics/Rocket.gif" width="18px"> [LXY's Blog](http://www.codingcode.cn/)
 - <img alt="GIF" src="https://github.com/Coding-Coder/Coding-Coder/blob/main/pics/coin.gif" width="20vw" /> [Email](mailto:aethon47@163.com)
 
-<img align="center" src="https://github.com/Coding-Coder/Coding-Coder/blob/main/pics/eat.svg?sanitize=true" width="200" height="200">
-
-
-<div style="position:absolute;left:0px;border:1px solid red;">xxx</div>
-<div style="position:absolute;right:0px;border:1px solid red;">sss</div>
+<!-- <img align="center" src="https://github.com/Coding-Coder/Coding-Coder/blob/main/pics/eat.svg?sanitize=true" width="200" height="200"> -->
 
 ---
 
