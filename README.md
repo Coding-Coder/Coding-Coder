@@ -13,7 +13,7 @@
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Coding-Coder&line_height=40&theme=calm&show_icons=true&hide_border=true&count_private=true">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-Coder&theme=calm&hide_border=true">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Coding-Coder&line_height=40&theme=dark&show_icons=true&hide_border=true&count_private=true">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Coding-Coder&theme=dark&hide_border=true">
 </p>
 </details>
