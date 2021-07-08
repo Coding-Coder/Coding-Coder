@@ -1,4 +1,7 @@
 # LXY <img src="https://github.com/Coding-Coder/Coding-Coder/blob/main/pics/Mario_Hello_Big.gif" width="36px">
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="240"/>
+
 ### <img src="https://github.com/Coding-Coder/Coding-Coder/blob/main/pics/Hi.gif" width="29px"> **Hello World!** &nbsp;<img src="https://github.com/Coding-Coder/Coding-Coder/blob/main/pics/Earth.gif" width="25px"> **I'm lxy** <img src="https://github.com/Coding-Coder/Coding-Coder/blob/main/pics/Developer.gif" width="35px">
 
 ### <img alt="GIF" src="https://github.com/Coding-Coder/Coding-Coder/blob/main/pics/powerup.gif" width="20vw" />Here are some links:
