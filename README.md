@@ -1,4 +1,4 @@
-# LXY <img src="https://github.com/Coding-Coder/Coding-Coder/blob/main/pics/Mario_Hello_Big.gif" width="36px">
+# <img src="https://emojis.slackmojis.com/emojis/images/1490885301/1973/mario_luigi_dance.gif?1490885301" width="36px"/> LXY <img src="https://github.com/Coding-Coder/Coding-Coder/blob/main/pics/Mario_Hello_Big.gif" width="36px">
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="240"/>
 
